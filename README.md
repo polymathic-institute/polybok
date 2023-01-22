@@ -15,7 +15,7 @@ In order to facilitate reviewing concepts via spaced repetition, every literatur
 - Look into "Text Generation" community plug-in to help with writing (GPT-3).
 - All files under the folder "Personal" are git-ignored, you can use this area for permanent notes, article ideas, or GTD systems in here to take advantage of the shared literature notes.
 	- The author personally uses this for blogs and brainstorming.
-	- I've included Cecilia's beautify [primary-theme](https://github.com/ceciliamay/obsidianmd-theme-primary), feel free to use it.
+	- I've included Cecilia's beautiful [primary-theme](https://github.com/ceciliamay/obsidianmd-theme-primary), feel free to use it.
 - Just send me a pull-request when you have created some well-written notes, thanks!
 
 **TO-DOs**
