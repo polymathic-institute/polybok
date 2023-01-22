@@ -1,0 +1,11 @@
+# to exclude Obsidian workspace settings (including plugin and hotkey configurations)
+.obsidian/*
+
+# This file is used to keep track of last auto backup/pull
+.obsidian-git-data
+
+# ignore all personal notes
+*Personal/*
+
+# but keep the theme choice
+!.obsidian/themes/primary.css
