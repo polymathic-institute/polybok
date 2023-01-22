@@ -19,8 +19,9 @@ In order to facilitate reviewing concepts via spaced repetition, every literatur
 - Just send me a pull-request when you have created some well-written notes, thanks!
 
 **TO-DOs**
+- [x] Create initial set of categories under Literature Notes
 - [ ] Create documentation on markup requirements for review prompts.
-- [ ] Create literature template for quick start.
+- [ ] Create literature note template for quick start.
 - [ ] Add some literature notes for reference.
 - [ ] Outline project roadmap.
 - [ ] Update Polymathic Institute website with landing page.
