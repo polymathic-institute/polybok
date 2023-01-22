@@ -28,11 +28,11 @@ In order to facilitate reviewing concepts via spaced repetition, every literatur
 #### Frequently Asked Questions (FAQ)
 
 **Q. What is Zettelkasten?**
-A. Zettelkasten is a method of organizing notes and ideas into an interconnected network of related concepts. It was developed by German historian and sociologist Niklas Luhmann in the 1950s and is based on the idea of creating a personal knowledge base by connecting individual notes together. The notes can be written using paper cards, digital notes, or other media, and can be connected through keywords, tags, or other relationships.
+Zettelkasten is a method of organizing notes and ideas into an interconnected network of related concepts. It was developed by German historian and sociologist Niklas Luhmann in the 1950s and is based on the idea of creating a personal knowledge base by connecting individual notes together. The notes can be written using paper cards, digital notes, or other media, and can be connected through keywords, tags, or other relationships.
 
 **Q. What is Second Brain by Tiago Forte?**
-A. Second Brain by Tiago Forte is a productivity system that helps organize your ideas, projects, and notes into a unified knowledge base. It uses the Building A Second Brain (BASB) methodology to help you capture, organize, and share your ideas more effectively. It also includes tools for tracking progress on projects and goals, as well as content curation.
+Second Brain by Tiago Forte is a productivity system that helps organize your ideas, projects, and notes into a unified knowledge base. It uses the Building A Second Brain (BASB) methodology to help you capture, organize, and share your ideas more effectively. It also includes tools for tracking progress on projects and goals, as well as content curation.
 
 **Q. What is a Literature Note? What is a Permanent Note?**
-A. A Literature Note is a note that is made from a source of literature, such as a book, article, or poem. It is used to summarize and analyze the text. A Permanent Note is a note that is kept and stored in an organized way for later reference. It usually contains information that will be relevant for the long term, such as lessons learned or facts about the topic.
+A Literature Note is a note that is made from a source of literature, such as a book, article, or poem. It is used to summarize and analyze the text. A Permanent Note is a note that is kept and stored in an organized way for later reference. It usually contains information that will be relevant for the long term, such as lessons learned or facts about the topic.
 
