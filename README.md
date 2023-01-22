@@ -5,7 +5,7 @@ In order to facilitate reviewing concepts via spaced repetition, every literatur
 
 **The goals of enforcing this unique structure are to:**
 1. Allow discovery of related concepts so that a learner can learn a new concept that is relatable to their existing network of knowledge, which improves retention significantly.
-2. Allow mixing of keywords in neighbouring concepts such that the review prompt require the learner to differentiate between close related concepts.
+2. Allow mixing of keywords in neighbouring concepts such that the review prompt require the learner to differentiate between closely related concepts.
 3. Research has shown that by requiring generation within review prompts, we help to alleviate passive learning, increasing retention.
 
 **This repository is a ObsidianMD vault, and collaboration is welcome!**
