@@ -1,4 +1,4 @@
-name: Dispatch Deploy
+name: dispatch-web-deploy
 on:
   push:
     branches:

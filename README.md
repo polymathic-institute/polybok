@@ -2,15 +2,20 @@
 
 Project PolyBOK (i.e. Polymathic Body of Knowledge) is a [Polymathic Institute](http://polymathic.institute/) initiative to map out interconnected academic concepts that are created with learning in mind. Think Zettelkasten/Second Brain meets Anki meets edX.
 
-In order to facilitate reviewing concepts via spaced repetition, every literature note should have a "Review Prompts" section containing key ideas from the note that is styled specifically to enable prompt generation of multiple choice, fill-in-the-blank, and binary questions.  This is done in addition to the back-linking of related concepts in other literature notes. 
+The learning application based on this library is still under development. To browse the content of this body of knowledge for now, visit the [PolyBOK](http://library.polymathic.institute/) website.
+
+In order to facilitate reviewing concepts via spaced repetition, every literature note should have its key ideas stylized specifically to enable prompt generation of multiple choice, fill-in-the-blank, and binary questions. This is done in addition to the back-linking of related concepts in other literature notes.
 
 **The goals of enforcing this unique structure are to:**
 1. Allow discovery of related concepts so that a learner can learn a new concept that is relatable to their existing network of knowledge, which improves retention significantly.
 2. Allow mixing of keywords in neighbouring concepts such that the review prompt require the learner to differentiate between closely related concepts.
 3. Research has shown that by requiring generation within review prompts, we help to alleviate passive learning, increasing retention.
 
+In the case that the body text provides poor structure or missing context to highlight as a review prompt, it is encouraged to provide a "summary callout" at the end of the note to include key ideas that have not been captured. 
+
 **This repository is a ObsidianMD vault, and collaboration is welcome!**
-- Please see "Get Started" for literature note templates, documentation, etc.
+- **Important:** Ensure that links are made with "Absolute Path in Vault" and in Markdown style (i.e., Wikilinks disabled). See [quartz documentation](https://quartz.jzhao.xyz/notes/obsidian/) for details.
+- Please see "Documentation" for literature note templates, prompt examples, etc.
 - Find the best-fit category/sub-category to place a literature note, but do connect with related literature note in any category.
 - Look into "LanguageTool" community plug-in for grammar and spelling.
 - Look into "Text Generation" community plug-in to help with writing (GPT-3).
