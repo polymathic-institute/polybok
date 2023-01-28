@@ -22,7 +22,7 @@ Brand values can be used on their own, or packaged in tools like brand identity/
 
 For instance, start with "We write with a brand philosophy", and then point out questions a writer can ask in order to sanity check if their copy sounds like what the brand would say.
 
-*Brand values can be further elaborated using specific explained examples, following a **"like-this, not-like-this, because"** formula.*
+*Brand values can be further elaborated using specific explained examples, following a **like-this, not-like-this, because** formula.*
 - Like this: ...
 - Not like this: ...
 - Because: ...
@@ -33,7 +33,7 @@ A technically intensive tool would be the Iambic pentameter - a traditional poet
 
 There are some debate around if a brand should have a different tone of voice for different social platforms. The perspective taken here is subtle: using the same tone of voice, but modulating it by the context of the subject.
 
-Think of modulating as fine-tuning the dials of your brand values in the copy. Let's investigate an example of a bank communicating to a customer about a missed payment, where the bank incorporates the brand values of "open", "honest", and "daring".
+*Think of modulating as **fine-tuning** the dials of your brand values in the copy.* Let's investigate an example of a bank communicating to a customer about a missed payment, where the bank incorporates the brand values of "open", "honest", and "daring".
 
 > *This is an **overly daring** example: "Yo, you missed your payment, yeah? Get in touch with us and we'll get is sorted. Sweet."*
 
