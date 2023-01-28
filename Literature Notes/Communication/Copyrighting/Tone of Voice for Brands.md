@@ -37,5 +37,5 @@ The undertone is that between "did/that" the other person in the conversation pu
 
 *Remember that communication is **relative**, a single brand or person would talk **differently** under different context when talking to different people (or other brands).* Reflecting on how your personally change the way you talk in different situations will help with understanding tone of voice.
 
-Related: [Creating a Tone of Voice Guide](Creating%20a%20Tone%20of%20Voice%20Guide.md)
+Related: [[Creating a Tone of Voice Guide]]
 Source: [Tone of Voice in Copywriting for Brands](https://www.domestika.org/en/courses/3681-tone-of-voice-in-copywriting-for-brands)

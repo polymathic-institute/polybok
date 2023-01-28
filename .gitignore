@@ -9,3 +9,6 @@
 
 # but keep the theme choice
 !.obsidian/themes/primary.css
+
+# exclude any work-in-progress notes
+*WIP.*
