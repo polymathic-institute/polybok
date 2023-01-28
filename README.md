@@ -15,14 +15,14 @@ In order to facilitate reviewing concepts via spaced repetition, every literatur
 - Look into "Text Generation" community plug-in to help with writing (GPT-3).
 - All files under the folder "Personal" are git-ignored, you can use this area for permanent notes, article ideas, or GTD systems in here to take advantage of the shared literature notes.
 	- The author personally uses this for blogs and brainstorming.
-	- I've included Cecilia's beautiful [primary-theme](https://github.com/ceciliamay/obsidianmd-theme-primary), feel free to use it.
 - Just send me a pull-request when you have created some well-written notes, thanks!
 
 **TO-DOs**
 - [x] Create initial set of categories under Literature Notes
 - [ ] Create documentation on markup requirements for review prompts.
 - [ ] Create literature note template for quick start.
-- [ ] Add some literature notes for reference.
+- [x] Add some literature notes for reference.
+- [x] CI/CD to deploy PolyBOK on web.
 - [ ] Outline project roadmap.
 - [ ] Update Polymathic Institute website with landing page.
 
