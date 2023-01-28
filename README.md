@@ -1,4 +1,5 @@
 # Project PolyBOK
+
 Project PolyBOK (i.e. Polymathic Body of Knowledge) is a [Polymathic Institute](http://polymathic.institute/) initiative to map out interconnected academic concepts that are created with learning in mind. Think Zettelkasten/Second Brain meets Anki meets edX.
 
 In order to facilitate reviewing concepts via spaced repetition, every literature note should have a "Review Prompts" section containing key ideas from the note that is styled specifically to enable prompt generation of multiple choice, fill-in-the-blank, and binary questions.  This is done in addition to the back-linking of related concepts in other literature notes. 

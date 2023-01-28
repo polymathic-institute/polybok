@@ -67,5 +67,5 @@ Focus on your specific niche, picture or research three people you see your bran
 - Where are the target audience? How can you engage them?
 
 Resources: 
-- [Branding Strategy for Creatives]([https://www.domestika.org/en/courses/3973-brand-positioning-strategy-for-creatives](https://www.domestika.org/en/courses/3973-brand-positioning-strategy-for-creatives))
+- [Branding Strategy for Creatives](https://www.domestika.org/en/courses/3973-brand-positioning-strategy-for-creatives)
 - [Branding Strategy Template](https://findcongwang.notion.site/Brand-Positioning-Strategy-Template-0a1113fd5b764c27818e38f5e5b5847f)
