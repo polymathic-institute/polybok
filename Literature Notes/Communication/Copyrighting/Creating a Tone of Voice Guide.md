@@ -1,3 +1,8 @@
+---
+title: "Creating a Tone of Voice Guide"
+enableToc: false
+---
+
 A tone of voice guide outlines the elements involved with how to write like the brand. These elements include:
 
 - Brand Value

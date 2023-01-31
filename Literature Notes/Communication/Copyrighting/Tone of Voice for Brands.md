@@ -1,3 +1,8 @@
+---
+title: "Tone of Voice for Brands"
+enableToc: false
+---
+
 Everybody talks differently, as an artifact from their upbringing, culture, experiences, and media consumed.  *A good exercise is to imagine brands as **people**, how would they speak?*
 
 Language is culture, a lot of companies focus on their external tone of voice but overlook their internal tone of voice in everyday communications (i.e. emails, meeting notes, etc.).
@@ -37,5 +42,10 @@ The undertone is that between "did/that" the other person in the conversation pu
 
 *Remember that communication is **relative**, a single brand or person would talk **differently** under different context when talking to different people (or other brands).* Reflecting on how your personally change the way you talk in different situations will help with understanding tone of voice.
 
-Related: [[Creating a Tone of Voice Guide]]
-Source: [Tone of Voice in Copywriting for Brands](https://www.domestika.org/en/courses/3681-tone-of-voice-in-copywriting-for-brands)
+---
+
+Related: 
+- [[Creating a Tone of Voice Guide]]
+
+Resources:
+- [Tone of Voice in Copywriting for Brands](https://www.domestika.org/en/courses/3681-tone-of-voice-in-copywriting-for-brands)

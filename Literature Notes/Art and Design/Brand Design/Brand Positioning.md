@@ -1,3 +1,7 @@
+---
+title: "Brand Positioning"
+enableToc: false
+---
 
 *Brand positioning is an **iterative** process, with **precision** at its core.* It is the opposite of targeting all audiences with all types of services, but to be the ONE at a very narrow niche. This often means best-of-class, specific and clearly labelled services, for a specific targeted customer base.
 
@@ -65,6 +69,8 @@ Focus on your specific niche, picture or research three people you see your bran
 - Does anything need to change? Logo, Colour Schema, Landing Page?
 - Does your market material showcase the unique differentiators?
 - Where are the target audience? How can you engage them?
+
+---
 
 Resources: 
 - [Branding Strategy for Creatives](https://www.domestika.org/en/courses/3973-brand-positioning-strategy-for-creatives)

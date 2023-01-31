@@ -1,15 +1,17 @@
 ---
-title: "{{title}}"
+title: "Basic Typography Design"
+enableToc: false
 ---
+
 Logotype or wordmark is a brand symbol built using typography. Good logotype design communicates the intention of a brand at a glance.
 
-#### The Creative Process
+##### The Creative Process
 
 Start with a creative brief, brand statement, project goals, or some words that best describe your brand. Think about use cases, if the logotype will be used in packaging, signage, mugs, apparel, etc. These should advise what mockups to explore later.
 
 Research brand competitors, tease out what works in the industry and what doesn't. Also provides a guideline to standout and avoid being too similar to other brands.
 
-Build a logo moodboard, a presentation of curated design examples, showcase a large spectrum of style, execution, look and feel.  multiple industries. Pinterest, Behance
+Build a logo mood board, a presentation of curated design examples, showcase a large spectrum of style, execution, look and feel from multiple industries. Pinterest and Behance and good tools to  build mood boards.
 
 Start sketching, often times the mistakes made during this step becomes a major idea in the final design, don't worry about being perfect and explore various ideas quickly. This is a divergent thinking step.
 
@@ -24,29 +26,29 @@ Luckily, there is no need to start from scratch to build out a font from sketche
 - ***Script fonts** are used to how the brand's more human and creative side.* Good script fonts are hard to find, some examples are Marvelous, Palm Caryor, Alondra, Avida La Bila.
 - Display fonts are eye-catching and unique. Examples are Swifted, Elody, Kinder, Oakland, New York, Passion Sans, Marigold.
 
-Pick the correct base font to match industry, here's a few example combinations.
+Pick the correct base font to match industry, here are a few example combinations.
 - Modern: pick modern, simple, sans serif fonts.
 - Western: pick expressive, ornate, serif fonts.
 - Sports: pick modern fonts, use italics to look energetic, and bold to look strong.
 - Tech: pick clean, bold, simple, san serif fonts.
-- Law: pick trustworthy, established, and presiteous, serif fonts.
+- Law: pick trustworthy, established, and prestigious, serif fonts.
 
 You would type out the brand name, and outline all points of the base font so that each element can be tweaked individually.
 
 ##### Tweaking the Letterforms
 
 Some letters are easier to work with, some are harder due to the nature of their letterform.
-Easies letters to manipulate: A, E, F, G, J, K, M, N, Q, P, W.
+Easier letters to manipulate: A, E, F, G, J, K, M, N, Q, P, W.
 
-Also look for alternative forms of the letters, different weights, constrasting weights.
+Also look for alternative forms of the letters, different weights, contrasting weights.
 
 Tips for Illustrator
-- Bring out frequently used tools out on their own palatte for ease of access.
-- Use a base font, then type out the logo and vectorize (Shift + Cmd + O on MacOS), ungroup.
+- Bring out frequently used tools out on their own palette for ease of access.
+- Use a base font, then type out the logo and vectorize (Shift + Cmd + O on macOS), ungroup.
 
-Pick a secondary font, there are two guidelines.
-1. They must have constrast, i.e. light vs. heavy or hard vs. sharp.
-2. They must go together and something in common, e.g., porportion, detail, vertical stress.
+Then pick a secondary font, there are two guidelines.
+1. They must have contrast, i.e. light vs. heavy or hard vs. sharp.
+2. They must go together and something in common, e.g., proportion, detail, vertical stress.
 
 ##### Review / Present the Logotype
 
@@ -54,18 +56,19 @@ Finally, print out your design in different sizes for review. Double check basel
 
 Include mockups with the logotype presentation, such as mugs, bags, t-shirts, and signage. Some places to create mockups are Creative Market, Mr. Mockup, Layer, or DIY.
 
-Show examples of clear space, and misuse. Color palette, primary and secondary colours.
+Show examples of clear space, and misuse. Colour palette, primary and secondary colours.
 
-Ultimately these all cultivate into a brand guideline, possibly in conjunction with [[Brand Positioning]] and [[Tone of Voice for Brands]].
+Ultimately, these all cultivate into a brand guideline, possibly in conjunction with [[Brand Positioning]] and [[Tone of Voice for Brands]].
 
-#### Useful Definitions
+##### Useful Definitions
 
-Kerning is the space between letters in the type.
-Ascender is the upstroke above the X-height.
-Baseline is the line in which all letters "sit".
-Descender is the part of the stroke that sits below the baseline.
-Letterforms are the elements that form each character, e.g., apex, cap height, beak, stress, etc.
+* Kerning is the space between letters in the type.
+* Ascender is the upstroke above the X-height.
+* Baseline is the line in which all letters "sit".
+* Descender is the part of the stroke that sits below the baseline.
+* Letterforms are the elements that form each character, e.g., apex, cap height, beak, stress, etc.
 
+---
 
 Resources: 
 - [Logo Modernism](https://www.goodreads.com/en/book/show/26786839)
