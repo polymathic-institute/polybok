@@ -42,7 +42,7 @@ Based on the value proposition, extract three short phrases that can represent t
 
 ##### Brand Personality
 
-Keep in mind that this is the brand's personality. Imagine if the brand was a person, how would they speak? It's often an extension of the founder, but not always. Some resources are available from the Brand Personality Quiz developed by FINIEN freely available [here](https://findcongwang.notion.site/Brand-Positioning-Strategy-Template-0a1113fd5b764c27818e38f5e5b5847f), or investigate [[Tone of Voice for Brands]].
+Keep in mind that this is the brand's personality. Imagine if the brand was a person, how would they speak? It's often an extension of the founder, but not always. Some resources are available from the Brand Personality Quiz developed by FINIEN freely available [here](https://findcongwang.notion.site/Brand-Positioning-Strategy-Template-0a1113fd5b764c27818e38f5e5b5847f), or investigate [Tone of Voice for Brands](Literature%20Notes/Communication/Copyrighting/Tone%20of%20Voice%20for%20Brands.md).
 
 ##### Mission Statement and Goal Statement
 

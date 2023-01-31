@@ -45,7 +45,7 @@ The undertone is that between "did/that" the other person in the conversation pu
 ---
 
 Related: 
-- [[Creating a Tone of Voice Guide]]
+- [Creating a Tone of Voice Guide](Literature%20Notes/Communication/Copyrighting/Creating%20a%20Tone%20of%20Voice%20Guide.md)
 
 Resources:
 - [Tone of Voice in Copywriting for Brands](https://www.domestika.org/en/courses/3681-tone-of-voice-in-copywriting-for-brands)

@@ -33,7 +33,7 @@ There are many persona reseach processes, some are more in-depth than others. A 
 
 ##### Competitve Audit Workshop
 
-Identify three to four competitors, possibly in conjunction with [[Brand Positioning]] analysis. Look into their website and social media for market materials, then analysis what is working and what can be improved. Do the competitor brands stand out? Are they legible on different mediums? This information helps us define pitfalls to avoid and working strategies to incorporate.
+Identify three to four competitors, possibly in conjunction with [Brand Positioning](Literature%20Notes/Art%20and%20Design/Brand%20Design/Brand%20Positioning.md) analysis. Look into their website and social media for market materials, then analysis what is working and what can be improved. Do the competitor brands stand out? Are they legible on different mediums? This information helps us define pitfalls to avoid and working strategies to incorporate.
 
 ##### Mood Board
 

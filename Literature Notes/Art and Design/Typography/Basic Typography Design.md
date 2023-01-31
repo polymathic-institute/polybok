@@ -58,7 +58,7 @@ Include mockups with the logotype presentation, such as mugs, bags, t-shirts, an
 
 Show examples of clear space, and misuse. Colour palette, primary and secondary colours.
 
-Ultimately, these all cultivate into a brand guideline, possibly in conjunction with [[Brand Positioning]] and [[Tone of Voice for Brands]].
+Ultimately, these all cultivate into a brand guideline, possibly in conjunction with [Brand Positioning](Literature%20Notes/Art%20and%20Design/Brand%20Design/Brand%20Positioning.md) and [Tone of Voice for Brands](Literature%20Notes/Communication/Copyrighting/Tone%20of%20Voice%20for%20Brands.md).
 
 ##### Useful Definitions
 
