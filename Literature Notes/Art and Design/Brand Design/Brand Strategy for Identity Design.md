@@ -51,7 +51,9 @@ Pick out a primary colour scheme and a secondary colour scheme. *Consider **pant
 
 ##### Typography
 
-Create type hierarchy: headline, sub-head, body text, quotes. Leave some contrast between the logo and type, shouldn't be the exact same fonts, but rather communicates a similar feeling. Show examples with both light and dark backgrounds.
+Select a set of primary and secondary fonts for the brand, see [Basic Typography Design](Literature%20Notes/Art%20and%20Design/Typography/Basic%20Typography%20Design.md). Leave some contrast between the logo text and copy text, shouldn't be the exact same fonts, but rather communicates a similar feeling. 
+* Remember to create type hierarchy, i.e. headline, sub-head, body text, quotes maybe use different fonts and weights. 
+* Remember to demonstrate examples with both light and dark backgrounds.
 
 ##### Mockups
 

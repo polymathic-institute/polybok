@@ -1,11 +1,10 @@
 ---
 title: "Basic Typography Design"
-enableToc: false
 ---
 
 Logotype or wordmark is a brand symbol built using typography. Good logotype design communicates the intention of a brand at a glance.
 
-##### The Creative Process
+## The Creative Process
 
 Start with a creative brief, brand statement, project goals, or some words that best describe your brand. Think about use cases, if the logotype will be used in packaging, signage, mugs, apparel, etc. These should advise what mockups to explore later.
 
@@ -17,7 +16,7 @@ Start sketching, often times the mistakes made during this step becomes a major 
 
 After exploring many concepts, select a few that you'd want to develop further digitally. Refer back to the brand statement and ethos to help pick up the style that feels right. Once selected, scan or take a photo of these sketches for reference in Illustrator.
 
-##### Picking a Base Font
+## Picking a Base Font
 
 Luckily, there is no need to start from scratch to build out a font from sketches. There are some major categories of fonts that can be used as base fonts, typically san serif fonts are easier to manipulate due to their often uniform thickness.
 
@@ -35,7 +34,7 @@ Pick the correct base font to match industry, here are a few example combination
 
 You would type out the brand name, and outline all points of the base font so that each element can be tweaked individually.
 
-##### Tweaking the Letterforms
+## Tweaking the Letterforms
 
 Some letters are easier to work with, some are harder due to the nature of their letterform.
 Easier letters to manipulate: A, E, F, G, J, K, M, N, Q, P, W.
@@ -50,7 +49,7 @@ Then pick a secondary font, there are two guidelines.
 1. They must have contrast, i.e. light vs. heavy or hard vs. sharp.
 2. They must go together and something in common, e.g., proportion, detail, vertical stress.
 
-##### Review / Present the Logotype
+## Review / Present the Logotype
 
 Finally, print out your design in different sizes for review. Double check baseline, kerning, negative spaces, crossbars, etc. 
 
@@ -58,9 +57,9 @@ Include mockups with the logotype presentation, such as mugs, bags, t-shirts, an
 
 Show examples of clear space, and misuse. Colour palette, primary and secondary colours.
 
-Ultimately, these all cultivate into a brand guideline, possibly in conjunction with [Brand Positioning](Literature%20Notes/Art%20and%20Design/Brand%20Design/Brand%20Positioning.md) and [Tone of Voice for Brands](Literature%20Notes/Communication/Copyrighting/Tone%20of%20Voice%20for%20Brands.md).
+Ultimately, these all cultivate into a brand guideline, possibly in conjunction with [Brand Positioning](Literature%20Notes/Art%20and%20Design/Brand%20Design/Brand%20Positioning.md) and [Creating a Tone of Voice Guide](Literature%20Notes/Communication/Copyrighting/Creating%20a%20Tone%20of%20Voice%20Guide.md).
 
-##### Useful Definitions
+## Useful Definitions
 
 * Kerning is the space between letters in the type.
 * Ascender is the upstroke above the X-height.
